@@ -78,7 +78,7 @@ GhostDrift Mathematical Institute & Structural Cognition Lab
 
 © 2025 GhostDrift Mathematical Institute. All Rights Reserved.
 
-🛡️ License & Patent Notice
+**🛡️ License & Patent Notice**
 
 This document is published for research and scholarly discussion purposes only.
 
