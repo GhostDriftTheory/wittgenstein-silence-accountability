@@ -10,6 +10,9 @@ This research artifact, produced by the **GhostDrift Mathematical Institute**, c
 
 Amidst the "crisis of meaning" accelerated by generative AI, this paper posits that the "unsayable" is not a mystical void, but a structural component necessary for the preservation of human inquiry and social systems.
 
+🌐 GhostDrift Mathematical Institute (Official)
+[https://www.ghostdriftresearch.com/](https://www.ghostdriftresearch.com/)
+
 ## **Artifact Information**
 
 * **Title:** Wittgenstein Does Not End in Silence  
